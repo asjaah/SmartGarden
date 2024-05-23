@@ -1,0 +1,1 @@
+Developed a mobile robot that served the purpose of automating garden watering using an FPGA board. Moreover, I also led an additional implementation of the same project that involved the usage of a Raspberry Pi 4.
